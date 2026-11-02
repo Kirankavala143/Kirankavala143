@@ -61,21 +61,23 @@ I'm a Computer Science graduate specializing in Artificial Intelligence and Mach
 - **[Job Hunt AI](https://github.com/Kirankavala143/job-hunt-agent)** — Resume-powered job discovery and matching application.
 - **[DocChat RAG](https://github.com/Kirankavala143/docchat-rag)** — Document question-answering application.
 - **[Emotion-Based Music Player](https://github.com/Kirankavala143/Emotion-Based-Music-playeer)** — Emotion detection and music recommendation using Python, OpenCV, DeepFace, and Flask.
+- **[Personal Portfolio](https://kiran-portfolio-fawn.vercel.app/)** — My portfolio showcasing projects, skills, and development journey.
 
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kiran-kavala/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://kiran-portfolio-fawn.vercel.app/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/smiley_boy_kiran_)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@kirankavala5062)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kavalakiran98@gmail.com)
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Kirankavala143&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Kirankavala143&show_icons=true&theme=dark&hide_border=false)
 
-![](https://nirzak-streak-stats.vercel.app/?user=Kirankavala143&theme=dark&hide_border=false)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Kirankavala143&theme=dark&layout=compact)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kirankavala143&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Kirankavala143&theme=dark&hide_border=false)
 
 ---
 
