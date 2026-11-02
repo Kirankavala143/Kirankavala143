@@ -77,8 +77,6 @@ I'm a Computer Science graduate specializing in Artificial Intelligence and Mach
 
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Kirankavala143&theme=dark&layout=compact)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kirankavala143&theme=dark&hide_border=false)
-
 ---
 
 ⭐ *Thanks for visiting my profile!*
